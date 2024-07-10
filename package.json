@@ -1,0 +1,25 @@
+{
+  "name": "youtube-api-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cron": "^3.1.7",
+    "express": "^4.19.2",
+    "node-abort-controller": "^3.1.1",
+    "pg": "^8.12.0"
+  }
+}
